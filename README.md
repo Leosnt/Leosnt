@@ -1,6 +1,7 @@
-<div>
-  <img src="https://user-images.githubusercontent.com/93165753/139446666-26837a9c-d2d1-4faa-9f45-329d30c3b907.png" widht="250" height= 200 align="right"/>
-</div>
+<span align="center">
+  
+  <img src="https://user-images.githubusercontent.com/93165753/143683634-15b1afc9-0cf8-4ee0-b56b-30be26a196fd.gif" height= "165px" style="width:100%" />
+</span>
 
 <p align="left">
   Sou aluno de Ciências da Computação da Universidade Cruzeiro do Sul🏛️. Estou sempre disposto a aprender e trabalhar em novas tecnologias, explorando e aproveitando para resolver problemas da vida real💡. Atualmente estou trabalhando em desenvolver projetos e aperfeiçoar minhas habilidades📚.
