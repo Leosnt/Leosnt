@@ -1,26 +1,30 @@
 <span align="center">
   
-  <img src="https://user-images.githubusercontent.com/93165753/143683634-15b1afc9-0cf8-4ee0-b56b-30be26a196fd.gif" height= "165px" style="width:100%" />
+  <img src="https://user-images.githubusercontent.com/93165753/143685406-501852da-254b-47ec-b164-f1f5ca1db3e7.gif" height= "220px" style="width:100%" />
 </span>
 
+<h3>OLÁ VISITANTES E COLABORADORES 🙋‍♂️</h3>
+
 <p align="left">
-  Sou aluno de Ciências da Computação da Universidade Cruzeiro do Sul🏛️. Estou sempre disposto a aprender e trabalhar em novas tecnologias, explorando e aproveitando para resolver problemas da vida real💡. Atualmente estou trabalhando em desenvolver projetos e aperfeiçoar minhas habilidades📚.
+  Sou aluno de Ciências da Computação da Universidade Cruzeiro do Sul🏛️. Estou sempre disposto a aprender e trabalhar em novas tecnologias, explorando e aproveitando para resolver problemas da vida real💡. Atualmente estou desenvolvendo projetos colaborando para aperfeiçoar minhas habilidades📚.
 </p>
+
+<hr>
   
-<h2 align="center"> Technologies </h2>
-  
-<h2 align="center">
-  
+<h3>
   <div style="display: inline_block">
-    <img alt="Leo-Js" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img alt="Leo-Python" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img alt="Léo-Jupyter" height"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-    <img alt="Leo-HTML" height"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    
+  <p text-align="left">TECNOLOGIAS</font>
+    <img alt="Leo-Js" height"30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="right">
+    <img alt="Leo-Python" height"30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="right">
+    <img alt="Léo-Jupyter" height"30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" align="right">
+    <img alt="Leo-HTML" height"30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" align="right">
+    </p>
   </div>
-</h2>
+</h3>
+
+<hr>
   
-<h2 align="center"> My github stats </h2>
+<h2 align="center"> 📉📈<i>STATS</i>📉📈 </h2>
   
 <div>
     <h2 align="center">
