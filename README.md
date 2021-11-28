@@ -10,14 +10,15 @@
 </p>
 
 <hr>
-  
+
+
 <h3>
-  <div align="right" text-align="left">TECNOLOGIAS
-    <img alt="Leo-Js" height"20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="right">
-    <img alt="Leo-Python" height"20" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="right">
-    <img alt="Léo-Jupyter" height"20" width="30"  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" align="right">
-    <img alt="Leo-HTML" height"20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" align="right">
-    <img alt="Leo-CSS" height"20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" >
+  <div style="text-align:left">TECNOLOGIAS
+    <img alt="Leo-Js" height"20" width="30"  align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img alt="Leo-Python" height"20" width="30"  align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="Léo-Jupyter" height"20" width="30"  align="right" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+    <img alt="Leo-HTML" height"20" width="30" align="right" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img alt="Leo-CSS" height"20" width="30" align="right" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   </div>
 </h3>
 
