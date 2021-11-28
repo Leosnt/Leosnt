@@ -13,7 +13,7 @@
   
 <h3>
   <div style="display: inline-block">
-  <p text-align="left">TECNOLOGIAS</font>
+  <p text-align="left">TECNOLOGIAS
     <img alt="Leo-Js" height"20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="right">
     <img alt="Leo-Python" height"20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="right">
     <img alt="Léo-Jupyter" height"20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" align="right">
