@@ -11,16 +11,13 @@
 
 <hr>
 
-
-<h2>
-  <div style="text-align:left">TECNOLOGIAS
+  <div display="inline" style="text-align:left"><b>TECNOLOGIAS</b>
     <img alt="Leo-Js" height"20" width="30"  align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img alt="Leo-Python" height"20" width="30"  align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="Léo-Jupyter" height"20" width="30"  align="right" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
     <img alt="Leo-HTML" height"20" width="30" align="right" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img alt="Leo-CSS" height"20" width="30" align="right" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   </div>
-</h2>
 
 <hr>
   
