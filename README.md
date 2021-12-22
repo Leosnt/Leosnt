@@ -13,10 +13,10 @@
 
 <h3>
   <div display="inline-block" style="text-align:left">TECNOLOGIAS
-    <img alt="Leo-Js" width="28em"  align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img alt="Léo-Jupyter" width="28em" align="right" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-    <img alt="Leo-HTML" width="28em" align="right" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img alt="Leo-CSS" width="28em" align="right" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img alt="Leo-Js" width="28rem"  align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" class="logo">
+    <img alt="Léo-Jupyter" width="28rem" align="right" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" class="logo">
+    <img alt="Leo-HTML" width="28rem" align="right" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" class="logo">
+    <img alt="Leo-CSS" width="28rem" align="right" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" class="logo">
   </div>
 </h3>
 
