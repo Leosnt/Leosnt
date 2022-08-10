@@ -1,7 +1,6 @@
-<span align="center">
-  
-  <img src="https://user-images.githubusercontent.com/93165753/143685406-501852da-254b-47ec-b164-f1f5ca1db3e7.gif" height= "220px" style="width:100%" />
-</span>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/93165753/143685406-501852da-254b-47ec-b164-f1f5ca1db3e7.gif" height= "220px" style="width:100%"/>
+</div>
 
 <h3>OLÁ VISITANTES E COLABORADORES 🙋‍♂️</h3>
 
