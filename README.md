@@ -5,7 +5,7 @@
 <h3>OLÁ VISITANTES E COLABORADORES 🙋‍♂️</h3>
 
 <p align="left">
-  Sou aluno de Ciências da Computação da Universidade Cruzeiro do Sul🏛️. Estou sempre disposto a aprender e trabalhar em novas tecnologias, explorando e aproveitando para resolver problemas da vida real💡. Atualmente estou desenvolvendo projetos colaborando para aperfeiçoar minhas habilidades📚.
+  Explorando e aproveitando para resolver problemas da vida real💡.
 </p>
 
 <hr>
